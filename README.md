@@ -6,6 +6,10 @@ Vrije Universiteit, The Netherlands
 ### Overview
 This project explores the application of large language models (LLMs) for detecting hate speech in memes.
 
+### Important notes on the use of the code
+Facebook hatespeech meme dataset with the corresponding jsonl file must be used.
+OpenAI key must be set-up in an environment as well as tesseract installation folder.
+
 ### Table of Contents
 1. [Problem and Motivation](#problem-and-motivation)
 2. [Description and Justification of Research Approach](#description-and-approach)
